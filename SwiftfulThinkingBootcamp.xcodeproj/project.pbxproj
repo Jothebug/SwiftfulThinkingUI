@@ -18,6 +18,7 @@
 		B56EFA032C7B076C00DF1959 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EFA022C7B076C00DF1959 /* Images.swift */; };
 		B56EFA052C7B0CAF00DF1959 /* Frames.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EFA042C7B0CAF00DF1959 /* Frames.swift */; };
 		B56EFA072C7B0FBE00DF1959 /* Backgrounds&Overlays.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EFA062C7B0FBE00DF1959 /* Backgrounds&Overlays.swift */; };
+		B56EFA092C7B1B1200DF1959 /* Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EFA082C7B1B1200DF1959 /* Stacks.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		B56EFA022C7B076C00DF1959 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
 		B56EFA042C7B0CAF00DF1959 /* Frames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frames.swift; sourceTree = "<group>"; };
 		B56EFA062C7B0FBE00DF1959 /* Backgrounds&Overlays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Backgrounds&Overlays.swift"; sourceTree = "<group>"; };
+		B56EFA082C7B1B1200DF1959 /* Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stacks.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				B56EFA022C7B076C00DF1959 /* Images.swift */,
 				B56EFA042C7B0CAF00DF1959 /* Frames.swift */,
 				B56EFA062C7B0FBE00DF1959 /* Backgrounds&Overlays.swift */,
+				B56EFA082C7B1B1200DF1959 /* Stacks.swift */,
 				B56EF9F82C7AF3BA00DF1959 /* Shapes.swift */,
 				B56EF9EA2C7AE93000DF1959 /* ContentView.swift */,
 				B56EF9EC2C7AE93100DF1959 /* Assets.xcassets */,
@@ -158,6 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B56EFA092C7B1B1200DF1959 /* Stacks.swift in Sources */,
 				B56EFA032C7B076C00DF1959 /* Images.swift in Sources */,
 				B56EF9EB2C7AE93000DF1959 /* ContentView.swift in Sources */,
 				B56EFA012C7B018D00DF1959 /* SystemIcons.swift in Sources */,
