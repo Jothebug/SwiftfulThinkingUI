@@ -15,6 +15,7 @@
 		B56EF9FB2C7AF73600DF1959 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EF9FA2C7AF73600DF1959 /* Colors.swift */; };
 		B56EF9FF2C7AFC2000DF1959 /* Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EF9FE2C7AFC2000DF1959 /* Gradients.swift */; };
 		B56EFA012C7B018D00DF1959 /* SystemIcons.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EFA002C7B018D00DF1959 /* SystemIcons.swift */; };
+		B56EFA032C7B076C00DF1959 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EFA022C7B076C00DF1959 /* Images.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		B56EF9FA2C7AF73600DF1959 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		B56EF9FE2C7AFC2000DF1959 /* Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradients.swift; sourceTree = "<group>"; };
 		B56EFA002C7B018D00DF1959 /* SystemIcons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemIcons.swift; sourceTree = "<group>"; };
+		B56EFA022C7B076C00DF1959 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				B56EF9FA2C7AF73600DF1959 /* Colors.swift */,
 				B56EF9FE2C7AFC2000DF1959 /* Gradients.swift */,
 				B56EFA002C7B018D00DF1959 /* SystemIcons.swift */,
+				B56EFA022C7B076C00DF1959 /* Images.swift */,
 				B56EF9F82C7AF3BA00DF1959 /* Shapes.swift */,
 				B56EF9EA2C7AE93000DF1959 /* ContentView.swift */,
 				B56EF9EC2C7AE93100DF1959 /* Assets.xcassets */,
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B56EFA032C7B076C00DF1959 /* Images.swift in Sources */,
 				B56EF9EB2C7AE93000DF1959 /* ContentView.swift in Sources */,
 				B56EFA012C7B018D00DF1959 /* SystemIcons.swift in Sources */,
 				B56EF9FF2C7AFC2000DF1959 /* Gradients.swift in Sources */,
