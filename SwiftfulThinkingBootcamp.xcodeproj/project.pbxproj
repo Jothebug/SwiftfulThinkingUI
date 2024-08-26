@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B55977A82C7CDA6700F97916 /* Initializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55977A72C7CDA6700F97916 /* Initializer.swift */; };
+		B55977AA2C7CDF8000F97916 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55977A92C7CDF8000F97916 /* ForEachBootcamp.swift */; };
 		B56EF9E92C7AE93000DF1959 /* SwiftfulThinkingBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EF9E82C7AE93000DF1959 /* SwiftfulThinkingBootcampApp.swift */; };
 		B56EF9EB2C7AE93000DF1959 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EF9EA2C7AE93000DF1959 /* ContentView.swift */; };
 		B56EF9ED2C7AE93100DF1959 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B56EF9EC2C7AE93100DF1959 /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		B55977A72C7CDA6700F97916 /* Initializer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializer.swift; sourceTree = "<group>"; };
+		B55977A92C7CDF8000F97916 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 		B56EF9E52C7AE93000DF1959 /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B56EF9E82C7AE93000DF1959 /* SwiftfulThinkingBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampApp.swift; sourceTree = "<group>"; };
 		B56EF9EA2C7AE93000DF1959 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				B56EF9F82C7AF3BA00DF1959 /* Shapes.swift */,
 				B5E1B3552C7B9EDB00F5F485 /* SpacerBootcamp.swift */,
 				B55977A72C7CDA6700F97916 /* Initializer.swift */,
+				B55977A92C7CDF8000F97916 /* ForEachBootcamp.swift */,
 				B56EF9EA2C7AE93000DF1959 /* ContentView.swift */,
 				B56EF9EC2C7AE93100DF1959 /* Assets.xcassets */,
 				B56EF9EE2C7AE93100DF1959 /* Preview Content */,
@@ -181,6 +184,7 @@
 				B56EFA052C7B0CAF00DF1959 /* Frames.swift in Sources */,
 				B56EFA072C7B0FBE00DF1959 /* Backgrounds&Overlays.swift in Sources */,
 				B56EF9E92C7AE93000DF1959 /* SwiftfulThinkingBootcampApp.swift in Sources */,
+				B55977AA2C7CDF8000F97916 /* ForEachBootcamp.swift in Sources */,
 				B56EF9F92C7AF3BA00DF1959 /* Shapes.swift in Sources */,
 				B5E1B3512C7B99E300F5F485 /* PaddingsAndSpacer.swift in Sources */,
 			);
