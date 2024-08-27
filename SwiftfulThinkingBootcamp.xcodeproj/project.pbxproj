@@ -23,6 +23,7 @@
 		B56EFA052C7B0CAF00DF1959 /* Frames.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EFA042C7B0CAF00DF1959 /* Frames.swift */; };
 		B56EFA072C7B0FBE00DF1959 /* Backgrounds&Overlays.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EFA062C7B0FBE00DF1959 /* Backgrounds&Overlays.swift */; };
 		B56EFA092C7B1B1200DF1959 /* Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EFA082C7B1B1200DF1959 /* Stacks.swift */; };
+		B5E179DC2C7E0C2E00DED820 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E179DB2C7E0C2E00DED820 /* SafeAreaBootcamp.swift */; };
 		B5E1B3512C7B99E300F5F485 /* PaddingsAndSpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E1B3502C7B99E300F5F485 /* PaddingsAndSpacer.swift */; };
 		B5E1B3562C7B9EDB00F5F485 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E1B3552C7B9EDB00F5F485 /* SpacerBootcamp.swift */; };
 /* End PBXBuildFile section */
@@ -45,6 +46,7 @@
 		B56EFA042C7B0CAF00DF1959 /* Frames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frames.swift; sourceTree = "<group>"; };
 		B56EFA062C7B0FBE00DF1959 /* Backgrounds&Overlays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Backgrounds&Overlays.swift"; sourceTree = "<group>"; };
 		B56EFA082C7B1B1200DF1959 /* Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stacks.swift; sourceTree = "<group>"; };
+		B5E179DB2C7E0C2E00DED820 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		B5E1B3502C7B99E300F5F485 /* PaddingsAndSpacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingsAndSpacer.swift; sourceTree = "<group>"; };
 		B5E1B3552C7B9EDB00F5F485 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -94,6 +96,7 @@
 				B55977A92C7CDF8000F97916 /* ForEachBootcamp.swift */,
 				B55977AB2C7CE44D00F97916 /* Scrollview.swift */,
 				B55977AD2C7CE93200F97916 /* LazyVGridBootcamp.swift */,
+				B5E179DB2C7E0C2E00DED820 /* SafeAreaBootcamp.swift */,
 				B56EF9EA2C7AE93000DF1959 /* ContentView.swift */,
 				B56EF9EC2C7AE93100DF1959 /* Assets.xcassets */,
 				B56EF9EE2C7AE93100DF1959 /* Preview Content */,
@@ -187,6 +190,7 @@
 				B56EF9FF2C7AFC2000DF1959 /* Gradients.swift in Sources */,
 				B56EF9FB2C7AF73600DF1959 /* Colors.swift in Sources */,
 				B55977A82C7CDA6700F97916 /* Initializer.swift in Sources */,
+				B5E179DC2C7E0C2E00DED820 /* SafeAreaBootcamp.swift in Sources */,
 				B5E1B3562C7B9EDB00F5F485 /* SpacerBootcamp.swift in Sources */,
 				B56EFA052C7B0CAF00DF1959 /* Frames.swift in Sources */,
 				B56EFA072C7B0FBE00DF1959 /* Backgrounds&Overlays.swift in Sources */,
