@@ -10,6 +10,7 @@
 		B55977A82C7CDA6700F97916 /* Initializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55977A72C7CDA6700F97916 /* Initializer.swift */; };
 		B55977AA2C7CDF8000F97916 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55977A92C7CDF8000F97916 /* ForEachBootcamp.swift */; };
 		B55977AC2C7CE44D00F97916 /* Scrollview.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55977AB2C7CE44D00F97916 /* Scrollview.swift */; };
+		B55977AE2C7CE93200F97916 /* LazyVGridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55977AD2C7CE93200F97916 /* LazyVGridBootcamp.swift */; };
 		B56EF9E92C7AE93000DF1959 /* SwiftfulThinkingBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EF9E82C7AE93000DF1959 /* SwiftfulThinkingBootcampApp.swift */; };
 		B56EF9EB2C7AE93000DF1959 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56EF9EA2C7AE93000DF1959 /* ContentView.swift */; };
 		B56EF9ED2C7AE93100DF1959 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B56EF9EC2C7AE93100DF1959 /* Assets.xcassets */; };
@@ -30,6 +31,7 @@
 		B55977A72C7CDA6700F97916 /* Initializer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializer.swift; sourceTree = "<group>"; };
 		B55977A92C7CDF8000F97916 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 		B55977AB2C7CE44D00F97916 /* Scrollview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scrollview.swift; sourceTree = "<group>"; };
+		B55977AD2C7CE93200F97916 /* LazyVGridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGridBootcamp.swift; sourceTree = "<group>"; };
 		B56EF9E52C7AE93000DF1959 /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B56EF9E82C7AE93000DF1959 /* SwiftfulThinkingBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampApp.swift; sourceTree = "<group>"; };
 		B56EF9EA2C7AE93000DF1959 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				B55977A72C7CDA6700F97916 /* Initializer.swift */,
 				B55977A92C7CDF8000F97916 /* ForEachBootcamp.swift */,
 				B55977AB2C7CE44D00F97916 /* Scrollview.swift */,
+				B55977AD2C7CE93200F97916 /* LazyVGridBootcamp.swift */,
 				B56EF9EA2C7AE93000DF1959 /* ContentView.swift */,
 				B56EF9EC2C7AE93100DF1959 /* Assets.xcassets */,
 				B56EF9EE2C7AE93100DF1959 /* Preview Content */,
@@ -179,6 +182,7 @@
 				B56EFA092C7B1B1200DF1959 /* Stacks.swift in Sources */,
 				B56EFA032C7B076C00DF1959 /* Images.swift in Sources */,
 				B56EF9EB2C7AE93000DF1959 /* ContentView.swift in Sources */,
+				B55977AE2C7CE93200F97916 /* LazyVGridBootcamp.swift in Sources */,
 				B56EFA012C7B018D00DF1959 /* SystemIcons.swift in Sources */,
 				B56EF9FF2C7AFC2000DF1959 /* Gradients.swift in Sources */,
 				B56EF9FB2C7AF73600DF1959 /* Colors.swift in Sources */,
