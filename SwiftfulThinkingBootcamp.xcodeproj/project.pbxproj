@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B52E62ED2C834E0F00AC67AF /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52E62EC2C834E0F00AC67AF /* BindingBootcamp.swift */; };
+		B5580B192C834F4000F72201 /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5580B182C834F4000F72201 /* ConditionalBootcamp.swift */; };
 		B55977A82C7CDA6700F97916 /* Initializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55977A72C7CDA6700F97916 /* Initializer.swift */; };
 		B55977AA2C7CDF8000F97916 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55977A92C7CDF8000F97916 /* ForEachBootcamp.swift */; };
 		B55977AC2C7CE44D00F97916 /* Scrollview.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55977AB2C7CE44D00F97916 /* Scrollview.swift */; };
@@ -35,6 +36,7 @@
 
 /* Begin PBXFileReference section */
 		B52E62EC2C834E0F00AC67AF /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
+		B5580B182C834F4000F72201 /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
 		B55977A72C7CDA6700F97916 /* Initializer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initializer.swift; sourceTree = "<group>"; };
 		B55977A92C7CDF8000F97916 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 		B55977AB2C7CE44D00F97916 /* Scrollview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scrollview.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				B5E179DF2C7E240600DED820 /* StateBootcamp.swift */,
 				B5E179E12C7E28DE00DED820 /* ExtractedFunctionsBootcamp.swift */,
 				B5E179E32C7E2E5100DED820 /* ExtractSubviewsBootcamp.swift */,
+				B5580B182C834F4000F72201 /* ConditionalBootcamp.swift */,
 				B56EF9EA2C7AE93000DF1959 /* ContentView.swift */,
 				B56EF9EC2C7AE93100DF1959 /* Assets.xcassets */,
 				B56EF9EE2C7AE93100DF1959 /* Preview Content */,
@@ -199,6 +202,7 @@
 			files = (
 				B56EFA092C7B1B1200DF1959 /* Stacks.swift in Sources */,
 				B56EFA032C7B076C00DF1959 /* Images.swift in Sources */,
+				B5580B192C834F4000F72201 /* ConditionalBootcamp.swift in Sources */,
 				B56EF9EB2C7AE93000DF1959 /* ContentView.swift in Sources */,
 				B55977AE2C7CE93200F97916 /* LazyVGridBootcamp.swift in Sources */,
 				B5E179DE2C7E1F9E00DED820 /* ButtonBootcamp.swift in Sources */,
