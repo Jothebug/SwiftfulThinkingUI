@@ -44,6 +44,7 @@
 		B5E1B3512C7B99E300F5F485 /* PaddingsAndSpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E1B3502C7B99E300F5F485 /* PaddingsAndSpacer.swift */; };
 		B5E1B3562C7B9EDB00F5F485 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E1B3552C7B9EDB00F5F485 /* SpacerBootcamp.swift */; };
 		B5F4546F2C8608CF001072A9 /* TextFiledBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F4546E2C8608CF001072A9 /* TextFiledBootcamp.swift */; };
+		B5F454712C860CDE001072A9 /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F454702C860CDE001072A9 /* TextEditorBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -85,6 +86,7 @@
 		B5E1B3502C7B99E300F5F485 /* PaddingsAndSpacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingsAndSpacer.swift; sourceTree = "<group>"; };
 		B5E1B3552C7B9EDB00F5F485 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		B5F4546E2C8608CF001072A9 /* TextFiledBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFiledBootcamp.swift; sourceTree = "<group>"; };
+		B5F454702C860CDE001072A9 /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +154,7 @@
 				B59F17032C838FB2002BEB6C /* ActionSheetsBootcamp.swift */,
 				B59F17052C8395C5002BEB6C /* ContextMenuBootcamp.swift */,
 				B5F4546E2C8608CF001072A9 /* TextFiledBootcamp.swift */,
+				B5F454702C860CDE001072A9 /* TextEditorBootcamp.swift */,
 				B56EF9EC2C7AE93100DF1959 /* Assets.xcassets */,
 				B56EF9EE2C7AE93100DF1959 /* Preview Content */,
 			);
@@ -264,6 +267,7 @@
 				B59F16F22C8352B7002BEB6C /* TernaryBootcamp.swift in Sources */,
 				B59F16FE2C8379B2002BEB6C /* NavigationViewBootcamp.swift in Sources */,
 				B5E179E42C7E2E5100DED820 /* ExtractSubviewsBootcamp.swift in Sources */,
+				B5F454712C860CDE001072A9 /* TextEditorBootcamp.swift in Sources */,
 				B59F17002C837DFB002BEB6C /* ListBootcamp.swift in Sources */,
 				B55977AA2C7CDF8000F97916 /* ForEachBootcamp.swift in Sources */,
 				B59F17022C838B43002BEB6C /* AlertBootcamp.swift in Sources */,
