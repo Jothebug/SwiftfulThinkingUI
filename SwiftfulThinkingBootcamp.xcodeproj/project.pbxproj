@@ -43,6 +43,7 @@
 		B5E179E42C7E2E5100DED820 /* ExtractSubviewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E179E32C7E2E5100DED820 /* ExtractSubviewsBootcamp.swift */; };
 		B5E1B3512C7B99E300F5F485 /* PaddingsAndSpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E1B3502C7B99E300F5F485 /* PaddingsAndSpacer.swift */; };
 		B5E1B3562C7B9EDB00F5F485 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E1B3552C7B9EDB00F5F485 /* SpacerBootcamp.swift */; };
+		B5F4546F2C8608CF001072A9 /* TextFiledBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F4546E2C8608CF001072A9 /* TextFiledBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -83,6 +84,7 @@
 		B5E179E32C7E2E5100DED820 /* ExtractSubviewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsBootcamp.swift; sourceTree = "<group>"; };
 		B5E1B3502C7B99E300F5F485 /* PaddingsAndSpacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingsAndSpacer.swift; sourceTree = "<group>"; };
 		B5E1B3552C7B9EDB00F5F485 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
+		B5F4546E2C8608CF001072A9 /* TextFiledBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFiledBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				B59F17012C838B43002BEB6C /* AlertBootcamp.swift */,
 				B59F17032C838FB2002BEB6C /* ActionSheetsBootcamp.swift */,
 				B59F17052C8395C5002BEB6C /* ContextMenuBootcamp.swift */,
+				B5F4546E2C8608CF001072A9 /* TextFiledBootcamp.swift */,
 				B56EF9EC2C7AE93100DF1959 /* Assets.xcassets */,
 				B56EF9EE2C7AE93100DF1959 /* Preview Content */,
 			);
@@ -249,6 +252,7 @@
 				B5E179DC2C7E0C2E00DED820 /* SafeAreaBootcamp.swift in Sources */,
 				B5E1B3562C7B9EDB00F5F485 /* SpacerBootcamp.swift in Sources */,
 				B56EFA052C7B0CAF00DF1959 /* Frames.swift in Sources */,
+				B5F4546F2C8608CF001072A9 /* TextFiledBootcamp.swift in Sources */,
 				B56EFA072C7B0FBE00DF1959 /* Backgrounds&Overlays.swift in Sources */,
 				B52E62ED2C834E0F00AC67AF /* BindingBootcamp.swift in Sources */,
 				B5E179E22C7E28DE00DED820 /* ExtractedFunctionsBootcamp.swift in Sources */,
