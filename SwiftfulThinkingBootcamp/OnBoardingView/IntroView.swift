@@ -10,6 +10,9 @@ import SwiftUI
 struct IntroView: View {
     
     @AppStorage("signed_in") var currentUserSignedIn: Bool = false
+    let transition: AnyTransition = .asymmetric(
+        insertion: .move(edge: .bottom),
+        removal: .move(edge: .top))
     
     var body: some View {
         ZStack {
@@ -22,9 +25,11 @@ struct IntroView: View {
             .ignoresSafeArea()
             
             if currentUserSignedIn {
-                Text("Profile View")
+                ProfileView()
+                    .transition(transition)
             } else {
-                Text("Onboarding view")
+                OnBoardingView()
+                    .transition(transition)
             }
             
             // if user is signed in
