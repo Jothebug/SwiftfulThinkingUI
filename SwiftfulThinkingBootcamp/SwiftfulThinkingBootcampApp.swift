@@ -11,8 +11,7 @@ import SwiftUI
 struct SwiftfulThinkingBootcampApp: App {
     var body: some Scene {
         WindowGroup {
-//            ContextMenuBootcamp()
-            IntroView()
+            ContextMenuBootcamp()
         }
     }
 }
