@@ -66,6 +66,16 @@ struct ButtonBootcamp: View {
                             .stroke(Color.gray, lineWidth: 2.0)
                     )
             })
+            
+            // #5
+            Button("Button Title") {
+                
+            }
+            .frame(height: 55)
+            .frame(width: .infinity)
+            .foregroundColor(.white)
+            .background(.blue)
+            .controlSize(.small)
         }
       
     }
