@@ -32,6 +32,7 @@ struct AnimationBootcamp: View {
                 .offset(y: isAnimated ? 300 : 0)
             Spacer()
         }
+        .animation(.spring(), value: isAnimated )
     }
 }
 
