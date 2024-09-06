@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B52E62ED2C834E0F00AC67AF /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52E62EC2C834E0F00AC67AF /* BindingBootcamp.swift */; };
+		B53D6D5D2C8B55C800910E49 /* BadgesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53D6D5C2C8B55C800910E49 /* BadgesBootcamp.swift */; };
 		B5544CF22C86150500EB975B /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5544CF12C86150500EB975B /* ToggleBootcamp.swift */; };
 		B5544CF42C86160E00EB975B /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5544CF32C86160E00EB975B /* PickerBootcamp.swift */; };
 		B5580B192C834F4000F72201 /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5580B182C834F4000F72201 /* ConditionalBootcamp.swift */; };
@@ -71,6 +72,7 @@
 
 /* Begin PBXFileReference section */
 		B52E62EC2C834E0F00AC67AF /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
+		B53D6D5C2C8B55C800910E49 /* BadgesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesBootcamp.swift; sourceTree = "<group>"; };
 		B5544CF12C86150500EB975B /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
 		B5544CF32C86160E00EB975B /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
 		B5580B182C834F4000F72201 /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
@@ -229,6 +231,7 @@
 				B58EC5092C8A131A00E36644 /* AsyncImageBootcamp.swift */,
 				B58EC50B2C8A153300E36644 /* BackgroundMaterialsBootcamp.swift */,
 				B58EC50D2C8A166800E36644 /* TextSelectionBootcamp.swift */,
+				B53D6D5C2C8B55C800910E49 /* BadgesBootcamp.swift */,
 				B56EF9EC2C7AE93100DF1959 /* Assets.xcassets */,
 				B56EF9EE2C7AE93100DF1959 /* Preview Content */,
 			);
@@ -360,6 +363,7 @@
 				B58EC5062C8A077E00E36644 /* ProfileView.swift in Sources */,
 				B5544CF22C86150500EB975B /* ToggleBootcamp.swift in Sources */,
 				B55977AA2C7CDF8000F97916 /* ForEachBootcamp.swift in Sources */,
+				B53D6D5D2C8B55C800910E49 /* BadgesBootcamp.swift in Sources */,
 				B59725592C86DBEE001E83E6 /* DocumentationBootcamp.swift in Sources */,
 				B59F17022C838B43002BEB6C /* AlertBootcamp.swift in Sources */,
 				B55C866A2C86F563005FAD6C /* ViewModelBootcamp.swift in Sources */,
