@@ -27,6 +27,12 @@ struct SafeAreaBootcamp: View {
         .background(Color.blue)
 //        .edgesIgnoringSafeArea(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
 //        .ignoresSafeArea(.container)
+        .safeAreaInset(edge: .top, alignment: .trailing, spacing: nil) {
+            Text("Hi")
+                .padding()
+                .background(.yellow)
+        }
+        
     }
 }
 
