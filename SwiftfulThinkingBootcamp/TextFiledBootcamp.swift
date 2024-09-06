@@ -16,7 +16,7 @@ struct TextFiledBootcamp: View {
         NavigationView {
             VStack {
                 TextField("Type something here...", text: $textFieldText)
-        //            .textFieldStyle(RoundedBorderTextFieldStyle())
+                    .submitLabel(.next)
                     .padding()
                     .background(Color.gray.opacity(0.3).cornerRadius(10))
                     .foregroundColor(.red)
