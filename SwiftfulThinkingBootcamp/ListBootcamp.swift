@@ -43,8 +43,28 @@ struct ListBootcamp: View {
                 }
                 
                 Section(header: Text("Veggies")){
-                    ForEach(veggies, id: \.self) { veggie in
-                        Text(veggie.capitalized)
+                    ForEach(veggies, id: \.self) {
+                        Text($0.capitalized)
+                            .swipeActions(edge: /*@START_MENU_TOKEN@*/.trailing/*@END_MENU_TOKEN@*/, allowsFullSwipe: true) {
+                                Button("Archive") {
+                                    
+                                }
+                                .tint(.green)
+                                Button("Save") {
+                                    
+                                }
+                                .tint(.blue)
+                                Button("Junk") {
+                                    
+                                }
+                                .tint(.black)
+                            }
+                            .swipeActions(edge: .leading, allowsFullSwipe: false) {
+                                Button("Share") {
+                                    
+                                }
+                                .tint(.yellow)
+                            }
                     }
                 }
             }
