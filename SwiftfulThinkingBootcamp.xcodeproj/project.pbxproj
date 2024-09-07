@@ -75,6 +75,7 @@
 		B5E1AAA02C8C14A2000F3199 /* ViewThatFitsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E1AA9F2C8C14A2000F3199 /* ViewThatFitsBootcamp.swift */; };
 		B5E1AAA22C8C186C000F3199 /* NavigationSplitViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E1AAA12C8C186C000F3199 /* NavigationSplitViewBootcamp.swift */; };
 		B5E1AAA42C8C700D000F3199 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E1AAA32C8C700D000F3199 /* GridBootcamp.swift */; };
+		B5E1AAA62C8C7DA7000F3199 /* ContentUnavailableViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E1AAA52C8C7DA7000F3199 /* ContentUnavailableViewBootcamp.swift */; };
 		B5E1B3512C7B99E300F5F485 /* PaddingsAndSpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E1B3502C7B99E300F5F485 /* PaddingsAndSpacer.swift */; };
 		B5E1B3562C7B9EDB00F5F485 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E1B3552C7B9EDB00F5F485 /* SpacerBootcamp.swift */; };
 		B5F4546F2C8608CF001072A9 /* TextFiledBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F4546E2C8608CF001072A9 /* TextFiledBootcamp.swift */; };
@@ -151,6 +152,7 @@
 		B5E1AA9F2C8C14A2000F3199 /* ViewThatFitsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFitsBootcamp.swift; sourceTree = "<group>"; };
 		B5E1AAA12C8C186C000F3199 /* NavigationSplitViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSplitViewBootcamp.swift; sourceTree = "<group>"; };
 		B5E1AAA32C8C700D000F3199 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
+		B5E1AAA52C8C7DA7000F3199 /* ContentUnavailableViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentUnavailableViewBootcamp.swift; sourceTree = "<group>"; };
 		B5E1B3502C7B99E300F5F485 /* PaddingsAndSpacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingsAndSpacer.swift; sourceTree = "<group>"; };
 		B5E1B3552C7B9EDB00F5F485 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		B5F4546E2C8608CF001072A9 /* TextFiledBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFiledBootcamp.swift; sourceTree = "<group>"; };
@@ -265,6 +267,7 @@
 				B5E1AA9F2C8C14A2000F3199 /* ViewThatFitsBootcamp.swift */,
 				B5E1AAA12C8C186C000F3199 /* NavigationSplitViewBootcamp.swift */,
 				B5E1AAA32C8C700D000F3199 /* GridBootcamp.swift */,
+				B5E1AAA52C8C7DA7000F3199 /* ContentUnavailableViewBootcamp.swift */,
 				B56EF9EC2C7AE93100DF1959 /* Assets.xcassets */,
 				B56EF9EE2C7AE93100DF1959 /* Preview Content */,
 			);
@@ -379,6 +382,7 @@
 				B5F4546F2C8608CF001072A9 /* TextFiledBootcamp.swift in Sources */,
 				B56EFA072C7B0FBE00DF1959 /* Backgrounds&Overlays.swift in Sources */,
 				B55C86682C86F076005FAD6C /* ModelBootcamp.swift in Sources */,
+				B5E1AAA62C8C7DA7000F3199 /* ContentUnavailableViewBootcamp.swift in Sources */,
 				B52E62ED2C834E0F00AC67AF /* BindingBootcamp.swift in Sources */,
 				B5E179E22C7E28DE00DED820 /* ExtractedFunctionsBootcamp.swift in Sources */,
 				B597255D2C86E5F3001E83E6 /* IfLetGuardBootcaamp.swift in Sources */,
@@ -558,7 +562,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -590,7 +594,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
